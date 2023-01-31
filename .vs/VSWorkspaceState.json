@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\src",
+    "\\src\\componets",
+    "\\src\\helpers",
+    "\\src\\hooks"
+  ],
+  "SelectedNode": "\\src\\hooks\\useFetchGifs.js",
+  "PreviewInSolutionExplorer": false
+}
